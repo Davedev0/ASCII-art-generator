@@ -31,7 +31,7 @@ To use the ASCII Art Generator, run the compiled executable with the following c
 ```sh
 ./ascii_art_generator [path_to_image]
 ```
-Replace `[path_to_image]` with the path to the image file you want to convert to ASCII art.
+Replace `[path_to_emoji]` emoji convert to ASCII art.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
